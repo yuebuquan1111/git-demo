@@ -2,5 +2,5 @@ hell git
 git update
 git updte2
 git hot_fix
-git hot_fix master test 
-git hot_fix
+git hot_fix master test  
+git hot_fix hot-fix test
